@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ed022/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷柏丸治婦人室女腹臟冷熱相攻心腹絞痛腰痛腿痛赤白帶下面色痿黃四肢羸乏黃耆去蘆蜜水炙熟地黃洗各一兩半卷柏醋炙赤石脂煅醋淬七次鹿茸醋炙白石脂芎藭代赭石煅醋淬七次艾葉醋炒桑寄生鱉甲醋炙當歸去蘆酒洗微炒地榆各一兩木香不見火龍骨各半兩乾薑炮三分上為末醋煮糯米糊為丸如梧桐子大每服七十丸空心食前用米飲送下
+  hash: sha256:9e84d5df18d36923a1b4b144128d9ef7a9fc208ac0887914944c0e13bc1fd281
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed022_jc_NaN-d40.d5.d7.h1s1}
+  - {type: 'tls:div-end', offset: 146, content: '', id: KR3ed022_jc_000-d40.d5d7}
+  - {type: 'tls:div-end', offset: 146, content: '', id: KR3ed022_jc_000-d40d5}
+  - {type: 'tls:div-start', offset: 146, content: '', id: KR3ed022_jc_000-d40d6, level: 2, head_text: 惡阻論治}
+metadata:
+  title: 嚴氏濟生方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed022.xml
+hash: sha256:83759a07f9fc9ea59c6ec7632b6baf0f971eadc5212b1d2fb3c488dd2ace334b
